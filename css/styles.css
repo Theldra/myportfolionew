@@ -1,0 +1,9 @@
+nav{
+    padding: 20px 0;
+    align-items: center;
+    position: fixed;
+    width: 100vw;
+    background-color: #FFFFFF;
+    z-index: 99;
+    margin-top: 50px;
+}
